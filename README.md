@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently a student at Noroff university of digital media
+i'm currently a student at Noroff school of technology & digital media
 
 
 ## 🌐 Socials:
