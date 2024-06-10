@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently a student at Noroff school of technology & digital media
+i'm currently a student at Noroff school of technology & digital media. I am currently (2024) studying front-end development and will continue with back-end after.
 
 
 ## 🌐 Socials:
