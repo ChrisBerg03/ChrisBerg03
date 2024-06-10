@@ -22,7 +22,6 @@ i'm currently a student at Noroff school of technology & digital media. I am cur
 ![](https://github-contributor-stats.vercel.app/api?username=ChrisBerg03&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up." style="height: 400px;">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ChrisBerg03&icon=0&color=5)](https://visitcount.itsvg.in)
